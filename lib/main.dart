@@ -187,7 +187,7 @@ class _OTPVerificationScreenState extends State<OTPVerificationScreen> {
                   });
                 },
                 decoration: InputDecoration(
-                  hintText: 'Enter captcha',
+                  hintText: 'Enter captcha code',
                   contentPadding: const EdgeInsets.symmetric(horizontal: 10),
                   enabledBorder: OutlineInputBorder(
                     borderSide: const BorderSide(color: Colors.black),
